@@ -1,2 +1,10 @@
 08/14/2024
 Current Code is: Pixel_Tester_WS2811_08142024.0001
+
+Test Modeds:
+All Red @%25
+All Blue @%25
+All Green @%25
+Count pixels (Ct): Every 5 Red, 10 Green, 50 Blue @%25
+Count Pixels up to preset Value (CT2): val @25%
+All White @%22
